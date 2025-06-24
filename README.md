@@ -10,3 +10,8 @@ The language of this program is French, because I'm French.
 The Morse folder plays a Morse code sound in the background, which says "HACKED BY NAVERA" over and over again.
 
 I created this script to show you that Python is not a skid-proof language, and that if used properly, it could be much more powerful than viruses in C# or C++.
+
+
+# READ THAT 🚫
+
+This script is for educational purposes, please do not reuse it for illegal things, I am in no way responsible for the reuse of this script, and this is strictly forbidden. This script is only fiction and is in no way illegal, none of this is real, and nothing actually attacks the PC.
