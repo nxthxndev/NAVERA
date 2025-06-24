@@ -16,5 +16,5 @@ from PIL import Image, ImageTk
 from datetime import datetime, timedelta
 
 
-# If you say that, you probably wanted to steal my code :) or just look nicely. In any case, 
-# you can go see the releases, I posted the latest version of NAVERA, you no longer have to launch the .py
+# If you see this, you probably wanted to steal my code :) or just look nicely.
+# In any case, you can go see the releases, I posted the latest version of NAVERA, you no longer have to launch the .py
