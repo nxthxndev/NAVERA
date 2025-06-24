@@ -3,7 +3,7 @@ NAVERA is a ransomware coded entirely in python, which fictitiously blocks your 
 
 # INFORMATIONS
 
-NAVERA blocks commands like Alt F4 or other commands and prevents you from opening CMD, Task Manager, and any other software used to close a program. The script starts when the PC starts. The Python code is hidden to prevent it from being stolen. Nothing is done directly to your computer, everything is fictitious.
+NAVERA blocks commands like Alt F4 or other commands and prevents you from opening CMD, Task Manager, and any other software used to close a program. The script starts when the PC starts. Nothing is done directly to your computer, everything is fictitious.
 
 The language of this program is French, because I'm French.
 
